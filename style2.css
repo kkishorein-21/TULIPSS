@@ -1,0 +1,259 @@
+#topbar
+{
+    background-color: black;
+    height: 30px;
+    width: 100%;
+}
+body
+{background-color:white;}
+#container
+{
+    background-color:white;
+    height: 5000px;
+width:100%; 
+margin:0px auto;
+}
+#header
+{
+    height: 80px;
+background-color: white;
+}
+#header img
+{
+    height: 80px; 
+}
+#header ul
+{
+    float: right;
+    margin-top: 25px;
+}
+#header ul li
+{
+    display: inline;
+    margin-right: 50px;
+}
+#header ul li a
+{
+    color: grey;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#ykg
+{
+    background-color:#fff;
+    width: 100%;
+    height: 70px;
+}
+.njg
+{
+    text-align-last: center;
+    font-family: monospace;
+    font-size: 40px;
+}
+.kin
+{
+    margin-left: 40px;
+
+}
+.kin1
+{
+    margin-left: 160px;
+}
+
+.kin4
+{
+    margin-left: 40px; 
+    margin-top: 40px;
+}
+.kin5
+{
+    margin-left: 160px;
+}
+.kin6
+{
+    margin-top:40px;
+    margin-left: 300px;
+}
+#ykgj
+{
+        background-color:#fff;
+        width: 100%;
+        height: 70px;  
+}
+.njgk
+{
+    text-align-last: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+#ban3
+{
+    padding-bottom: 20px;
+}
+#ni
+{
+    background-color:#fff;
+    width: 100%;
+    height: 70px;  
+}
+.ni3
+{
+    margin-left: 550px;
+    font-family: monospace;
+    font-size: 20px;
+}
+#ban4
+{
+    padding-bottom: 20px;
+}
+.lin
+{
+    margin-left: 40px;
+}
+.lin1
+{
+    margin-left: 160px;
+}
+.lin2
+{
+    margin-left:40px ;
+    margin-top:40px ;
+}
+.lin3
+{
+    margin-left: 160px;
+    margin-top: 40px;
+}
+.lin4
+{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.lin5
+{
+    margin-left: 160px;
+    margin-top: 40px;
+}
+#min
+{
+    background-color:#fff;
+    width: 100%;
+    height: 70px;
+}
+.min3
+{
+    margin-left: 550px;
+    font-family: monospace;
+    font-size: 20px;
+}
+#ban5
+{
+    padding-bottom: 20px;
+}
+.max
+{
+    margin-left: 40px;
+}
+.max1
+{
+    margin-left: 160px;
+}
+.max2
+{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.max3
+{
+    margin-left: 160px;
+    margin-top: 40px;
+}
+.max4
+{
+    margin-left: 40px;
+    margin-top: 40px; 
+}
+.max5
+{
+    margin-left: 160px;
+    margin-top: 40px;
+}
+.max6
+{
+    margin-top: 40px;
+    margin-left: 380px;
+}
+#cox
+{
+    background-color: #232f3e;
+    width: 100%;
+    height:370px;
+}
+#cos
+{
+    background-color:#232f3e;
+    float:left;
+    width: 30%;
+    height: 300px;
+}
+.sin
+{
+    color: #fff;
+    font-size: 23px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.sint
+{
+    margin-left: 130px;
+    color: white;
+    font-size: 17px;
+}
+#cost
+{
+    width: 30%;
+    height: 300px;
+    float: left;
+    background-color:#232f3e ; 
+    margin-left: 70px; 
+}
+.sine
+{
+    color: #fff;
+    font-size: 23px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.sinte
+{
+    margin-left: 145px;
+    color: white;
+    font-size: 17px;
+}
+#costo
+{
+    width: 30%;
+    height: 300px;
+    float: right;
+    background-color:#232f3e;  
+}
+.sineo
+{
+    color: #fff;
+    font-size: 23px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.sintee
+{
+    margin-left: 100px;
+    color: white;
+    font-size: 17px; 
+}
+#chocko
+{
+    color: #fff;
+    padding-top: 300px;
+    margin-left: 580px;
+    font-size: 20px;
+}

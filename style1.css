@@ -1,0 +1,137 @@
+#topbarc
+{
+    background-color: black;
+    width: 100%;
+    height:30px;
+}
+body
+{background-color:white;}
+#container0
+{
+    background-color:white;
+    height: 4000px;
+width:100%; 
+margin:0px auto;
+}
+#header
+{
+    height: 80px;
+background-color: white;
+}
+#headere img
+{
+    height: 80px; 
+}
+#headere ul
+{
+    float: right;
+    margin-top: 25px;
+}
+#headere ul li
+{
+    display: inline;
+    margin-right: 50px;
+}
+#headere ul li a
+{
+    color: grey;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#ykf
+{
+    background-color:#9FEBEB;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: #734488;
+    width: 100%;
+    height: 170px;
+}
+.njk
+{
+    color: black;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 560px;
+    padding-top: 32px;
+}
+#banner2
+{
+    margin-left: 75px;
+}
+#cox
+{
+    background-color: #232f3e;
+    width: 100%;
+    height:350px;
+}
+#cos
+{
+    background-color:#232f3e;
+    float:left;
+    width: 30%;
+    height: 300px;
+}
+.sin
+{
+    color: #fff;
+    font-size: 23px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.sint
+{
+    margin-left: 130px;
+    color: white;
+    font-size: 17px;
+}
+#cost
+{
+    width: 30%;
+    height: 300px;
+    float: left;
+    background-color: #232f3e; 
+    margin-left: 70px; 
+}
+.sine
+{
+    color: #fff;
+    font-size: 23px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.sinte
+{
+    margin-left: 145px;
+    color: white;
+    font-size: 17px;
+}
+#costo
+{
+    width: 30%;
+    height: 300px;
+    float: right;
+    background-color:#232f3e;  
+}
+.sineo
+{
+    color: #fff;
+    font-size: 23px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.sintee
+{
+    margin-left: 100px;
+    color: white;
+    font-size: 17px; 
+}
+#chocko
+{
+    color: #fff;
+    padding-top: 290px;
+    margin-left: 570px;
+    font-size: 20px;
+}
+
+
